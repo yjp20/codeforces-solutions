@@ -1,0 +1,7 @@
+[
+	{
+		"command": "/usr/bin/clang++ -std=c++17",
+		"directory": ".",
+		"file": "*"
+	}
+]
